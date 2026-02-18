@@ -21,3 +21,12 @@ This task focuses on applying core Python concepts to solve practical problems.<
 - Convert List to Tuple
 - Check if a Key Exists in a Dictionary
 - Calculate Average Marks
+### Data Processing and Analysis Task – 3
+This task focuses on solving real-world data processing problems using Python. It involves working with dictionaries, lists, strings, and tuples.<br/>
+##### The following mini-problems are included in Task 3:
+- Employee Performance Bonus Eligibility
+- Search Query Keyword Analysis
+- Sensor Data Validation
+- Email Domain Usage Analysis
+- Sales Spike Detection
+- Duplicate User ID Detection
