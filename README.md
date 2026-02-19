@@ -30,3 +30,12 @@ This task focuses on solving real-world data processing problems using Python. I
 - Email Domain Usage Analysis
 - Sales Spike Detection
 - Duplicate User ID Detection
+### Functions with Loops Task – 4
+This task focuses on using Python functions and loops to tackle real world scenarios like validating, processing, and handling.
+##### The following mini-problems are included in Task 4:
+- Mobile Recharge Validation System
+- Inventory Reorder Alert System
+- Student Result Processing System
+- Cab Fare Estimator with Retry Option
+- Employee Attendance Eligibility Checker
+- Password Strength Checker
